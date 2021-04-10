@@ -4,3 +4,18 @@
 4.  minikube status  --> to see the kubernate status
 5.kubectl get pods  ==> to see the running pods
 6 minikube service list
+
+
+
+to run dockr file
+mvn clean package dockerfile:push
+
+need to login docker hub
+docker login
+
+or
+we change setting .xml
+
+
+
+
