@@ -1,0 +1,6 @@
+1. minikube start  --> start the kubernate
+2. kubctl apply -f ./  ---. to deploy the servreis
+3. minikube dashboard to see the UI Dash borad
+4.  minikube status  --> to see the kubernate status
+5.kubectl get pods  ==> to see the running pods
+6 minikube service list
